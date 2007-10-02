@@ -6,9 +6,4 @@
 This document's sole purpose is to track the changes made in each version. There is nothing to see here as of now because there have been no changes to the initial library.
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= v 0.0 =

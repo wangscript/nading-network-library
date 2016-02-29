@@ -1,0 +1,6 @@
+# Introduction #
+
+This document's sole purpose is to track the changes made in each version. There is nothing to see here as of now because there have been no changes to the initial library.
+
+
+# v 0.0 #
